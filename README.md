@@ -1,2 +1,4 @@
 # python-fundamental
-parto of RWID course on remote work
+part of RWID course on remote work
+
+it works
